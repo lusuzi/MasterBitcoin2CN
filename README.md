@@ -1,3 +1,9 @@
+---
+description: test
+---
+
+# Introduction
+
 郎咸平说过：比特币白给我都不要
 
 巴菲特：比特币是泡沫，不是一种能够生产价值的资产
@@ -30,7 +36,7 @@
 
 柴春燕和格林怪物：联合翻译附录隔离见证部分
 
-Robbie_英语翻译：第4章审核校对
+Robbie\_英语翻译：第4章审核校对
 
 吴迪：第5章，第9章审核校对
 
@@ -52,13 +58,13 @@ Robbie_英语翻译：第4章审核校对
 
 乔延宏 2017.11.11
 
-*** 正版书购买链接***
+ _**正版书购买链接**_
 
 本书经过多方努力，历时一年，终于付梓，欢迎购买正版图书。京东购买链接：
 
-https://item.jd.com/12620946.html
+[https://item.jd.com/12620946.html](https://item.jd.com/12620946.html)
 
-*** 2019年下半年校对说明 ***
+ _**2019年下半年校对说明**_ 
 
 2019年10月开始到2019年12月底，对github上的第二版进行了一次全面的校对，更新了下面的内容：
 
@@ -70,9 +76,9 @@ https://item.jd.com/12620946.html
 
 4、增加比特币白皮书的李笑来翻译版本，附其他版本链接。
 
-乔延宏   2019.12.22
+乔延宏 2019.12.22
 
-*** 2020年上半年校对说明 ***
+ _**2020年上半年校对说明**_ 
 
 2020年7月跟随原版进行了更新。主要内容有：
 
@@ -86,24 +92,19 @@ https://item.jd.com/12620946.html
 
 5、更新目录。
 
-乔延宏  2020.7.30
-
-
+乔延宏 2020.7.30
 
 鸣谢:
 
 区块链研习社
 
-[![云天明区块链数据导航](http://ytm.ltd/zb_users/upload/ytm.ltd.png)](http://ytm.ltd)
-
-
-
+[![&#x4E91;&#x5929;&#x660E;&#x533A;&#x5757;&#x94FE;&#x6570;&#x636E;&#x5BFC;&#x822A;](http://ytm.ltd/zb_users/upload/ytm.ltd.png)](http://ytm.ltd)
 
 ## Mastering Bitcoin - Second Edition 版权说明
 
-The tags, [second_edition_print_1](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print_1) and [second_edition_print2](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print2), correspond to the first (June 8th, 2017) and second (July 20th, 2017) print of Mastering Bitcoin (Second Edition), as published by O'Reilly Media.
+The tags, [second\_edition\_print\_1](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print_1) and [second\_edition\_print2](https://github.com/bitcoinbook/bitcoinbook/releases/tag/second_edition_print2), correspond to the first \(June 8th, 2017\) and second \(July 20th, 2017\) print of Mastering Bitcoin \(Second Edition\), as published by O'Reilly Media.
 
-[![Creative Commons License](../../qukuailian/%E7%B2%BE%E9%80%9A%E6%96%B0%E7%BF%BB%E8%AF%91/images/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38387833312e706e67.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Creative Commons License](https://github.com/lusuzi/MasterBitcoin2CN/tree/da6d6a36f9ac4c0eac39fb79891d2fe1fa100e30/qukuailian/精通新翻译/images/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38387833312e706e67.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Mastering Bitcoin - Second Edition by [Andreas M. Antonopoulos LLC](https://antonopoulos.com/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
